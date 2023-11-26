@@ -1,7 +1,7 @@
 
 ## A Philosophy of Software Design
 
-[Chapter 1: Introduction](./chapter1.md)
+[Chapter 1: Introduction (It's All About Complexity)](./chapter1.md)
 
 To be added
 
