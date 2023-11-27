@@ -19,7 +19,7 @@ Knowing it is a good mindset, since as far as I suppress the sense, I can't iden
 
 ### 2.2  Symptoms of complexity
 
-![Figure2.1](./image/figure2.1.png "Figure2.1")
+![Figure2.1](./images/figure2.1.png "Figure2.1")
 
 -   Change amplification (a)
 -   Cognitive load (b)

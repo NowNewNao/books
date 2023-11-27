@@ -1,5 +1,8 @@
 ## A Philosophy of Software Design
 
+<img src="./images/cover.jpg" alt="drawing" width="200"/>
+
+### Contents
 - [Chapter 1: Introduction (It's All About Complexity)](./chapter1.md)
 - [Chapter 2: The Nature of Complexity](./chapter2.md)
 
