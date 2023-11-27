@@ -37,5 +37,5 @@ and more challengingly,
 
 
 
-<sub><sup>*All Refereces are from:
-Ousterhout, John K. . A Philosophy of Software Design, 2nd Edition. Yaknyam Press. Kindle Edition. </sup></sub>
+<sub>*All Refereces are from:
+Ousterhout, John K. . A Philosophy of Software Design, 2nd Edition. Yaknyam Press. Kindle Edition. </sub>
