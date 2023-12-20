@@ -5,6 +5,7 @@
 ### Contents
 - [Chapter 1: Introduction (It's All About Complexity)](./chapter1.md)
 - [Chapter 2: The Nature of Complexity](./chapter2.md)
+- [Chapter 3: Working Code isn't enough(Strategic vs. Tactical Programming)](./chapter3.md)  
 
 ... To be added
 
