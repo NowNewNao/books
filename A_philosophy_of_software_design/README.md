@@ -15,4 +15,4 @@
 | :--------------- | :------------------------------------------------------------------- |
 | Author           | [John Ousterhout](https://web.stanford.edu/~ouster/cgi-bin/home.php) |
 | Publication date | July 26, 2021                                                        |
-| Paegs            | 196                                                                  |
+| Pages            | 196                                                                  |
